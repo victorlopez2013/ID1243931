@@ -20,7 +20,7 @@ elif m == m1:
      if d<d1:
          age_year = y - y1-1
      elif d==d1:
-          age_year = y -y1
+          age_year = y - y1
           print("Happy Birthday!")
      else:
           age_year = y-y1
