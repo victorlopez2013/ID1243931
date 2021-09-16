@@ -3,4 +3,4 @@ userNum = int(input())
 # squaring needs multiplication
 userNumSquared = userNum * userNum
 # Output formatting issue here; needs new line
-print(userNumSquared, end='\n ')
+print(userNumSquared)
