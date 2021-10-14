@@ -14,8 +14,8 @@ for x in range(-10, 11):
         equation1 = a * x + b * y
         equation2 = d * x + e * y
         if equation1 == c and equation2 == f:
-            print('x =', x, ",", "y =", y)
+            print( x, y)
             solution = True
 
 if solution == False:
-    print("There is no solution")
+    print("No solution")
